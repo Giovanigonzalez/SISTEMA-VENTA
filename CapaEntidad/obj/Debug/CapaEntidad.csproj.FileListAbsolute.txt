@@ -1,0 +1,16 @@
+C:\Users\Giovani Villalba\source\repos\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Giovani Villalba\source\repos\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Giovani Villalba\source\repos\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Giovani Villalba\source\repos\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Giovani Villalba\source\repos\CapaEntidad\bin\Debug\LamdaTools.dll
+C:\Users\Giovani Villalba\source\repos\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Giovani Villalba\source\repos\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Giovani Villalba\source\repos\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Giovani Villalba\source\repos\SISTEMA_VENTA\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Giovani Villalba\source\repos\SISTEMA_VENTA\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Giovani Villalba\source\repos\SISTEMA_VENTA\CapaEntidad\bin\Debug\LamdaTools.dll
+C:\Users\Giovani Villalba\source\repos\SISTEMA_VENTA\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Giovani Villalba\source\repos\SISTEMA_VENTA\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Giovani Villalba\source\repos\SISTEMA_VENTA\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\Giovani Villalba\source\repos\SISTEMA_VENTA\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Giovani Villalba\source\repos\SISTEMA_VENTA\CapaEntidad\obj\Debug\CapaEntidad.pdb
